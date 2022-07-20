@@ -1,0 +1,90 @@
+body{
+    
+    background: #CBF7E2;
+}
+.one {
+    height: 89px; 
+    width: 100% ;
+    left:0px ;
+    top: 0px;
+    background-color: #031453;
+    display: inline-block; 
+    position: absolute;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+} 
+li {
+position: relative; 
+margin-left: 15px; 
+margin-right: 15px;
+display: inline-block; 
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+
+} 
+a {
+    position: relative; 
+    text-decoration: none; 
+    text-align: center; 
+    padding: 30px;
+    color: #cbf7e2; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+h1{
+    color: #031453;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    
+   
+}
+
+img{
+    text-align: left;
+    display:grid;
+    justify-content: center;
+}
+div1{
+    display: inline-block;
+    width: 230px;
+    height: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    border: 5px solid #031453;
+    padding: 2px;
+    margin: 100px 100px 100px 230px;
+}
+div2{
+    display: inline-block;
+    width: 230px;
+    height: 450px;
+    border: 5px solid #031453;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    padding: 2px;
+    margin: 100px 100px 100px 230px;
+}
+div3{
+    display: inline-block;
+    width: 230px;
+    height: 450px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    border: 5px solid #031453;
+    padding: 2px;
+    margin: 100px 100px 100px 230px;
+}
+div4{
+    display: inline-block;
+    width: 230px;
+    height: 450px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid #031453;
+    padding: 2px;
+    margin: 100px 100px 100px 230px;
+}
